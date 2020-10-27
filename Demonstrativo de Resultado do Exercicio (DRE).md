@@ -54,4 +54,4 @@
 
 <a id="link4"></a>
 ## 5. Acesso ao Painel
-### [Clique Aqui](https://app.powerbi.com/groups/me/reports/97f23e3b-6470-4f2d-8375-1e8b14d2745e/ReportSection9c12185ac00c4ecd9720?noSignUpCheck=1) para acessar o Painel do Demonstrativo de Resultado do Exercício (DRE)
+### [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiYjBjMzFjZDAtMjkwZC00ODIzLWFjZWMtMmE3NzVhNjgzMDIwIiwidCI6IjViZmM4YjUyLWU2MmEtNGQ1MS05MGQ4LTA5NmFhZTg0Zjg3NSJ9) para acessar o Painel do Demonstrativo de Resultado do Exercício (DRE)
