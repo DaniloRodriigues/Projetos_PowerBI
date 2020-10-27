@@ -1,46 +1,57 @@
 
-###### [Menu Inicial](https://github.com/DaniloRodriigues/Projetos_Excel)
+###### [Menu Inicial](https://github.com/DaniloRodriigues/Projetos_PowerBI)
 
 # Demonstrativo de Resultado do Exercicio (DRE)
 
 - ### [1. Objetivo](#Link1)
 - ### [2. De onde vem os dados?](#Link2)
-- ### [3. Quais são os principais Indicadores?](#Link3)
-- ### [4. Estrutura do arquivo](#Link4)
-- ### [5. Apresentação da Estrutura](#Link5)
-- ### [6. Apresentação da Estrutura](#Link5)
+- ### [3. Estrutura do Painel](#Link4)
+- ### [4. Apresentação da Estrutura](#Link5)
+- ### [5. Acesso ao Painel](#Link6)
 
   
   
 <a id="link1"></a>
 ## 1. Objetivo 
-### O objetivo da demonstração de resultado do exercicio (DRE) é o acompanhamento da apuração de resultado da empresa, assim como analise de Realizado x Orçado. Sendo possivel identificar qual a conta de maior impacto, através das analises verticais e horizontais.
+### O objetivo deste painel é facilidar as análises dos administradores das empresas, tendo então uma resposta muito mais rapida da situação real que a empresa se encontra, sendo possivel também realizar simulações com base naquilo que ja foi realizado.
 
 <a id="link2"></a>
 ## 2. De onde vem os dados?
-### Os dados são de origem contabil e de custos, sendo utilizado os relatórios do balancete e absorção.
+### Os dados para que seja criado esse tipo de painel, necessariamente precisam ser extraídos da contabilidade.
+
 
 <a id="link3"></a>
-## 3. Quais são os principais Indicadores?
-### Os principais indicadores são:
-- **% Margem de Contribuição (MC):**  *É o resultado do seguinte calculo R$ Receita liquida - R$ Custos Variáveis = R$ Margem de Contruição (Resultado absoluto da MC / [Receita bruta ou  Receita Liquida] = %  MC), ou seja, quanto que sobra para que cobrir os custos fixos da empresa.*
-- **EBITDA:** *Esse indicadore é mais conhecido como Resultado Operacional, ou seja, é o lucro ou prejuízo que a empresa obteve com a sua operação.*
+## 3. Estrutura do Painel
+### O Painel é constituido pelas seguintes páginas:  
 
-<a id="link4"></a>
-## 4. Estrutura da Planilha
-### A planilha é constituida pelas seguinte abas:  
-
-|ABAS|
-|--- | 
-|DRE UTI / UNIDADE DE INTERNAÇÃO | 
-|DRE CENTRO CIRURGICO | 
-|DRE AMBULATORIO / SADT| 
+|ABAS| DESCRIÇÃO |
+|--- | -----|
+|INICIO | Nesta página é possivel obter os resultado dos principais indicadores de forma resumida.
+|DRE | Aqui é apresentado o resultado da empresa, onde se é possivel realizar analise por mês, trimestre, semestre e anual. Podendo também realizar análise de comparação com ano anterior
+|SIMULADOR| Nesta página é possivel realizar simulações de cenários conforme o % selecionado pelo usuário, com a opção de comparar com o resultado real ou apenas com os valores simulados.
+|DASHBOARD| Página com os principais gráficos para o acompanhamento da evolução dos indicadores, assim como os principais ofensores de cada grupo de conta.
 | 
 
-<a id="link5"></a>
-## 5. Apresentação da Estrutura
+<a id="link4"></a>
+## 4. Apresentação da Estrutura
+
+- ## INICIO
+### Resumo por ano dos principais indicadores.
+![SCREENSHOT](/Imagens/DRE_Inicio.png)  
+
+- ## DRE
+### Apresentação dos resultados da empresa.
+![SCREENSHOT](/Imagens/DRE_Apresentacao_Resultado.png) 
+
+- ## SIMULADOR
+### Realizações de cenários a partir dos valores ja realizados.
+![SCREENSHOT](/Imagens/DRE_Simulador.png) 
+
+- ## DASHBOARDS
+### Principais gráficos, para um rápido entendimento.
+![SCREENSHOT](/Imagens/DRE_Dashboards.png) 
 
 
-- ## RECEITA
-### Receita gerado pelo setor produtivo, separado por grupo:
-![SCREENSHOT](/Imagens/DRE_Receita.png)  
+<a id="link4"></a>
+## 5. Acesso ao Painel
+### [Clique Aqui](https://app.powerbi.com/groups/me/reports/97f23e3b-6470-4f2d-8375-1e8b14d2745e/ReportSection9c12185ac00c4ecd9720?noSignUpCheck=1) para acessar o Painel do Demonstrativo de Resultado do Exercício (DRE)
