@@ -26,16 +26,16 @@
 
 |ABAS| DESCRIÇÃO |
 |--- | -----|
-|INICIO | Nesta página é possivel obter os resultado dos principais indicadores de forma resumida.
-|DRE | Aqui é apresentado o resultado da empresa, onde se é possivel realizar analise por mês, trimestre, semestre e anual. Podendo também realizar análise de comparação com ano anterior
-|SIMULADOR| Nesta página é possivel realizar simulações de cenários conforme o % selecionado pelo usuário, com a opção de comparar com o resultado real ou apenas com os valores simulados.
+|INÍCIO | Nesta página é possível obter os resultados dos principais indicadores de forma resumida.
+|DRE | Aqui é apresentado o resultado da empresa, onde se é possivel realizar análise por mês, trimestre, semestre e ano. Podendo também realizar análise de comparação com ano anterior
+|SIMULADOR| Nesta página é possível realizar simulações de cenários conforme o % selecionado pelo usuário, com a opção de comparar com o resultado real ou apenas com os valores simulados.
 |DASHBOARD| Página com os principais gráficos para o acompanhamento da evolução dos indicadores, assim como os principais ofensores de cada grupo de conta.
 | 
 
 <a id="link4"></a>
 ## 4. Apresentação da Estrutura
 
-- ## INICIO
+- ## INÍCIO
 ### Resumo por ano dos principais indicadores.
 ![SCREENSHOT](/Imagens/DRE_Inicio.PNG)  
 
@@ -44,7 +44,7 @@
 ![SCREENSHOT](/Imagens/DRE_Apresentacao_Resultado.PNG) 
 
 - ## SIMULADOR
-### Realizações de cenários a partir dos valores ja realizados.
+### Realizações de cenários a partir dos valores já realizados.
 ![SCREENSHOT](/Imagens/DRE_Simulador.PNG) 
 
 - ## DASHBOARDS
