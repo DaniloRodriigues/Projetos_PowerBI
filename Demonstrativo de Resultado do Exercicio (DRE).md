@@ -37,19 +37,19 @@
 
 - ## INICIO
 ### Resumo por ano dos principais indicadores.
-![SCREENSHOT](/Imagens/DRE_Inicio.JPG)  
+![SCREENSHOT](/Imagens/DRE_Inicio.PNG)  
 
 - ## DRE
 ### Apresentação dos resultados da empresa.
-![SCREENSHOT](/Imagens/DRE_Apresentacao_Resultado.JPG) 
+![SCREENSHOT](/Imagens/DRE_Apresentacao_Resultado.PNG) 
 
 - ## SIMULADOR
 ### Realizações de cenários a partir dos valores ja realizados.
-![SCREENSHOT](/Imagens/DRE_Simulador.JPG) 
+![SCREENSHOT](/Imagens/DRE_Simulador.PNG) 
 
 - ## DASHBOARDS
 ### Principais gráficos, para um rápido entendimento.
-![SCREENSHOT](/Imagens/DRE_Dashboards.JPG) 
+![SCREENSHOT](/Imagens/DRE_Dashboards.PNG) 
 
 
 <a id="link4"></a>
