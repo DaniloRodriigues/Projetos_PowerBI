@@ -13,7 +13,7 @@
   
 <a id="link1"></a>
 ## 1. Objetivo 
-### O objetivo deste painel é facilidar as análises dos administradores das empresas, tendo então uma resposta muito mais rapida da situação real que a empresa se encontra, sendo possivel também realizar simulações com base naquilo que ja foi realizado.
+### O objetivo deste painel é facilidar as análises dos administradores das empresas, tendo então uma resposta muito mais rápida da situação real que a empresa se encontra, sendo possivel também realizar simulações com base naquilo que ja foi realizado.
 
 <a id="link2"></a>
 ## 2. De onde vem os dados?
