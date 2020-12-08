@@ -40,10 +40,10 @@
 - ## PEDIDOS    
 ![SCREENSHOT](/Imagens/Santa_Klaus_Pedidos.PNG) 
 
-- ## SIMULADOR
+- ## PRAZOS
 ![SCREENSHOT](/Imagens/Santa_Klaus_Prazos.PNG) 
 
 
 <a id="link5"></a>
 ## 5. Acesso ao Painel
-### [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiY2RkYzYzNzUtNjJiZi00NTBkLTllOTYtZmZhZjdjMDdkNDFjIiwidCI6IjViZmM4YjUyLWU2MmEtNGQ1MS05MGQ4LTA5NmFhZTg0Zjg3NSJ9) para acessar o Painel do Demonstrativo de Resultado do Exercício (DRE)
+### [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiY2RkYzYzNzUtNjJiZi00NTBkLTllOTYtZmZhZjdjMDdkNDFjIiwidCI6IjViZmM4YjUyLWU2MmEtNGQ1MS05MGQ4LTA5NmFhZTg0Zjg3NSJ9) para acessar o Painel o Painel da Santa Klaus Factory
